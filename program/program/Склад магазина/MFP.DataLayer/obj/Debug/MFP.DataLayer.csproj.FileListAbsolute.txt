@@ -1,0 +1,23 @@
+D:\FL\Университет\WorkC#\Solution2\MFP.DataLayer\bin\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\Solution2\MFP.DataLayer\bin\Debug\MFP.DataLayer.pdb
+D:\FL\Университет\WorkC#\Solution2\MFP.DataLayer\obj\Debug\MFP.DataLayer.csprojResolveAssemblyReference.cache
+D:\FL\Университет\WorkC#\Solution2\MFP.DataLayer\obj\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\Solution2\MFP.DataLayer\obj\Debug\MFP.DataLayer.pdb
+D:\FL\Университет\WorkC#\DB\MFP.DataLayer\bin\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\DB\MFP.DataLayer\bin\Debug\MFP.DataLayer.pdb
+D:\FL\Университет\WorkC#\DB\MFP.DataLayer\obj\Debug\MFP.DataLayer.csprojResolveAssemblyReference.cache
+D:\FL\Университет\WorkC#\DB\MFP.DataLayer\obj\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\DB\MFP.DataLayer\obj\Debug\MFP.DataLayer.pdb
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\bin\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\bin\Debug\MFP.DataLayer.pdb
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.csprojResolveAssemblyReference.cache
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.csproj.ResolveComReference.cache
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.pdb
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\bin\Debug\MFP.DataLayer.dll
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\bin\Debug\MFP.DataLayer.pdb
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.csprojAssemblyReference.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.csproj.ResolveComReference.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.csproj.CoreCompileInputs.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.dll
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\MFP.DataLayer\obj\Debug\MFP.DataLayer.pdb

@@ -1,0 +1,109 @@
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FL\Университет\WorkC#\Solution2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\bin\Debug\asa-TZ\WindowsFormsApplication1.resources.dll
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.asa-TZ.resources
+D:\FL\Университет\WorkC#\DB\WindowsFormsApplication1\obj\Debug\asa-TZ\WindowsFormsApplication1.resources.dll
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FW\Projects\DB\tamplateDBWrapper\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\FW\Projects\DB\Склад\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\FW\Projects\DB\Склад\КР\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\FW\Projects\DB\Склад\Проэкт\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.dll
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\bin\Debug\MFP.DataLayer.pdb
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\TAMP\Курсовая Склад C#\Проект\NewVer2\Склад магазина Арамей\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
